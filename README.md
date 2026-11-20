@@ -19,10 +19,11 @@ Trained to make readable code, follow norms and documenting code.
 ## Technical Stack
 
 ### DATA & BACKEND
-- PostgreSQL
-- PrismaORM
-- NextJS
-- Redis
+<img width="160" height="110" alt="image" src="https://github.com/user-attachments/assets/1f2e195c-8971-481d-898f-75c5f8b7bb0c" />
+<img width="160" height="110" alt="image" src="https://github.com/user-attachments/assets/8332aaa2-642e-48fa-8bd5-bb3818fe58e5" />
+<img width="160" height="110" alt="image" src="https://github.com/user-attachments/assets/9ded3801-7d58-4873-8048-ce4531004f0f" />
+<img width="160" height="110" alt="image" src="https://github.com/user-attachments/assets/2786cf7f-5fe5-4259-abd7-524bccb45e88" />
+
 - API REST
 
 ### Programmation
