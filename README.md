@@ -5,8 +5,8 @@ I am a student in 42 Le Havre, learning Data Science and aiming to be a Data Eng
 
 I am currently learning python more in depth, ETL/ELT pipelines and data warehouse, as well as how data architecture works or even how to analyse it.
 
-- [About me](#Aboutme)
-- [Technical Stack](#TechnicalStack)
+- [About me](#About-me)
+- [Technical Stack](#Technical-Stack)
 - [Projects](#Projects)
 
 ## About me
