@@ -5,6 +5,10 @@ I am a student in 42 Le Havre, learning Data Science and aiming to be a Data Eng
 
 I am currently learning python more in depth, ETL/ELT pipelines and data warehouse, as well as how data architecture works or even how to analyse it.
 
+- [About me](#Aboutme)
+- [Technical Stack](#TechnicalStack)
+- [Projects](#Projects)
+
 ## About me
 Student in data, interested in manipulating it, analysing it and implementing IA in developpement.
 
@@ -18,30 +22,22 @@ Trained to make readable code, follow norms and documenting code.
 
 ## Technical Stack
 
-### DATA & BACKEND
-<img width="160" height="110" alt="image" src="https://github.com/user-attachments/assets/1f2e195c-8971-481d-898f-75c5f8b7bb0c" />
-<img width="160" height="110" alt="image" src="https://github.com/user-attachments/assets/8332aaa2-642e-48fa-8bd5-bb3818fe58e5" />
-<img width="160" height="110" alt="image" src="https://github.com/user-attachments/assets/9ded3801-7d58-4873-8048-ce4531004f0f" />
-<img width="160" height="110" alt="image" src="https://github.com/user-attachments/assets/2786cf7f-5fe5-4259-abd7-524bccb45e88" />
+### Data & Backend
+![Tech](https://skillicons.dev/icons?i=postgres,prisma,redis)
+![REST API](https://img.shields.io/badge/API-REST-009688?style=for-the-badge)
 
-- API REST
+### Programming
+![Tech](https://skillicons.dev/icons?i=py,c,cpp,ts)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
-### Programmation
-- Python
-- C
-- C++
-- Typescript
-- SQL
-
-### Tools and environnement
-- Git/Github
-- Linux
-- Ubuntu
-- Docker
+### Tools & Environment
+![Tech](https://skillicons.dev/icons?i=git,github,linux,ubuntu,docker)
 
 ## Projects
 
 ### FT_Transcendance (Obelisk)
 Web project about an RPG turn based game including a social part to discuss, play together or manage the community.
 
-Work about data architecture and manipulation, backend dev with real time sockets and API rest use.
+- Data architecture and manipulation
+- Backend development with real-time sockets
+- REST API design and use
